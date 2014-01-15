@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'anWa4bDS9KCt9fi7jajV308gFf2LvnxDFcO79EWAhfHxzvJv', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'hyd0IEWC5JPA4hV7EPRos1eIr0ydJWJwllIhOHORLLdokfd3', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1279728364], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Thermostaat', // Replaces Xively logo in the header
 		dataDuration	= '30', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
