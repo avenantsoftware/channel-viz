@@ -158,7 +158,10 @@
 											bottom: 0.02,
 											left: 0.02
 										},
-										series: series
+										series: [{
+		                                                                       data: [ { x: 0, y: 40 }, { x: 1, y: 49 }, ...
+		                                                                       color: 'steelblue'
+	                                                                                }]
 									});
 
 									graph.render();
